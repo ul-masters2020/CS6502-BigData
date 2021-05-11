@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 .vscode
+
+*.json
+*.zip
+*__pychache__
